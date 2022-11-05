@@ -23,3 +23,11 @@ There are 3 types of queries :
 ### Text query : 
 Search images by title or tags
 ![home page](Frontend/Photos/text_query.gif)
+
+### Image query : 
+Upload an image and find its similar images
+![home page](Frontend/Photos/image_query.gif)
+
+### Image & Text query : 
+Search images based on the combination of uploaded image and text
+![home page](Frontend/Photos/image_text_query.gif)
