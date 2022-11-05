@@ -39,6 +39,7 @@ Example : Image query : White car + Text query : "red"
 For the indexing :
 - ElasticSearch 7.14.1
 - Elastiknn plugin 7.14.1.0 <br/> `elasticsearch-plugin install https://github.com/alexklibisz/elastiknn/releases/tag/7.14.1.0 `
+
 For the web application : 
 - ElasticSearch python client: to query elasticsearch index.
 - FastAPI : to develop an API to enable querying from the web application.
