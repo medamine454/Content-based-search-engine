@@ -5,7 +5,6 @@
 <div align="center">
   <h4>
     <a href="#context">Context</a> |
-    <a href="#getting-started">Getting started</a> |
     <a href="#pipeline">Pipeline</a> |
     <a href="#deployment">Deployment</a> |
     <a href="#contribution">Contribution</a>
