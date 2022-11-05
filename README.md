@@ -22,16 +22,19 @@ An image search engine that covers over 2 million annotated images from [Open Im
 There are 3 types of queries : 
 ### Text query : 
 Search images by title or tags
+
 Example : Text query : "moon"
 ![home page](Frontend/Photos/text_query.gif)
 
 ### Image query : 
 Upload an image and find its similar images
+
 Example : Image query : Brown dog
 ![home page](Frontend/Photos/image_query.gif)
 
 ### Image & Text query : 
 Search images based on the combination of uploaded image and text
+
 Example : Image query : White car + Text query : "red"
 ![home page](Frontend/Photos/image_text_query.gif)
 
