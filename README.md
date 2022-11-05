@@ -16,4 +16,4 @@
 ## Context
 An image search engine that covers over 2 million annotated images from [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html). This search engine enables its users to search using text, images or a combination of both.
 
-![home page](Photos/img1.png)
+![home page](Frontend/Photos/img1.PNG)
