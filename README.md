@@ -5,7 +5,7 @@
 <div align="center">
   <h4>
     <a href="#context">Context</a> |
-     <a href="#typeofsearch">Types of Search</a> |
+     <a href="#Types of Search">Types of Search</a> |
     <a href="#pipeline">Pipeline</a> |
     <a href="#deployment">Deployment</a> |
     <a href="#contribution">Contribution</a>
