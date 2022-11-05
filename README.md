@@ -5,6 +5,7 @@
 <div align="center">
   <h4>
     <a href="#context">Context</a> |
+     <a href="#typeofsearch">Types of Search</a> |
     <a href="#pipeline">Pipeline</a> |
     <a href="#deployment">Deployment</a> |
     <a href="#contribution">Contribution</a>
@@ -16,3 +17,5 @@
 An image search engine that covers over 2 million annotated images from [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html). This search engine enables its users to search using text, images or a combination of both.
 
 ![home page](Frontend/Photos/img1.PNG)
+## Types of Search
+An image search engine that covers over 2 million annotated images from [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html). This search engine enables its users to search using text, images or a combination of both.
