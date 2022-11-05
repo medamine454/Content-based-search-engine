@@ -45,7 +45,7 @@ For the web application :
 - Streamlit : to design a frontend for the application where users perform text and image search.
 
 ## Contribution
-<a href="https://github.com/GhaziXX/content-and-text-based-image-retrieval/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=GhaziXX/content-and-text-based-image-retrieval" width=100/>
+<a href="https://github.com/medamine454/Content-based-search-engine/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=medamine454/Content-based-search-engine" width=100/>
 </a>
 
