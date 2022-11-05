@@ -7,7 +7,7 @@
     <a href="#context">Context</a> |
      <a href="#types-of-search">Types of Search</a> |
     <a href="#pipeline">Pipeline</a> |
-    <a href="#deployment">Deployment</a> |
+    <a href="#used-technologies">Used technologies</a> |
     <a href="#contribution">Contribution</a>
   </h4>
 </div>
@@ -34,3 +34,18 @@ Example : Image query : Brown dog
 Search images based on the combination of uploaded image and text
 Example : Image query : White car + Text query : "red"
 ![home page](Frontend/Photos/image_text_query.gif)
+
+## Used technologies
+For the indexing :
+- ElasticSearch 7.14.1
+- Elastiknn plugin 7.14.1.0 <br/> `elasticsearch-plugin install https://github.com/alexklibisz/elastiknn/releases/tag/7.14.1.0 `
+For the web application : 
+- ElasticSearch python client: to query elasticsearch index.
+- FastAPI : to develop an API to enable querying from the web application.
+- Streamlit : to design a frontend for the application where users perform text and image search.
+
+## Contribution
+<a href="https://github.com/GhaziXX/content-and-text-based-image-retrieval/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=GhaziXX/content-and-text-based-image-retrieval" width=100/>
+</a>
+
