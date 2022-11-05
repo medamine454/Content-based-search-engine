@@ -46,6 +46,6 @@ For the web application :
 
 ## Contribution
 <a href="https://github.com/medamine454/Content-based-search-engine/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=medamine454/Content-based-search-engine" width=100/>
+  <img src="https://contrib.rocks/image?repo=medamine454/Content-based-search-engine" width=50/>
 </a>
 
