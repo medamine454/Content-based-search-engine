@@ -250,9 +250,9 @@ with st.sidebar:
 
     st.title(' USER GUIDE : Image and text based search engine ')
     st.write('Filters : ')
-    st.write('* image filter : upload an image and find similar images to it')
-    st.write('* text filter : search image by title or tags')
-    st.write('* image and text filter : search image and add a tag ')
+    st.write('* Image filter : upload an image and find similar images to it')
+    st.write('* Text filter : search image by title or tags')
+    st.write('* Image and text filter : search image and add a tag ')
     st.write('Fuzzy options :')
     st.write('Returns results that contain similar terms to the search query')
     st.write('* Fuziness : number of changed letters')
