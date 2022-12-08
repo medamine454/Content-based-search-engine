@@ -258,4 +258,3 @@ with st.sidebar:
     st.write('* Fuziness : number of changed letters')
     st.write('Suggestions :')
     st.write('* Get some suggestion according to the input prefix')
-
