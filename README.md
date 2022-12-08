@@ -6,8 +6,8 @@
   <h4>
     <a href="#context">Context</a> |
      <a href="#types-of-search">Types of Search</a> |
-    <a href="#pipeline">Pipeline</a> |
     <a href="#used-technologies">Used technologies</a> |
+        <a href="#data-indexation-steps">Data indexation steps</a> |
     <a href="#contribution">Contribution</a>
   </h4>
 </div>
@@ -47,6 +47,14 @@ For the web application :
 - ElasticSearch python client: to query elasticsearch index.
 - FastAPI : to develop an API to enable querying from the web application.
 - Streamlit : to design a frontend for the application where users perform text and image search.
+
+## Data indexation steps
+We used ElasticSearch python client to index the data (All the the steps are mentionned in the Indexation.ipynb file : 
+- Create a new index
+- Read the file that contains the features vectors (Sequence0xx.csv)
+- Read the file that contains the images informations  (images_with_tags.csv)
+- Perform indexation
+
 
 ## Contribution
 <a href="https://github.com/medamine454/Content-based-search-engine/graphs/contributors">
