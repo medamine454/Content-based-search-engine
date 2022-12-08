@@ -49,7 +49,7 @@ For the web application :
 - Streamlit : to design a frontend for the application where users perform text and image search.
 
 ## Data indexation steps
-We used ElasticSearch python client to index the data (All the the steps are mentionned in the Indexation.ipynb file : 
+We used ElasticSearch python client to index the data (All the the steps are mentionned in the Indexation.ipynb file [a link](https://github.com/medamine454/Content-based-search-engine/blob/main/Data/Indexation.ipynb) : 
 - Create a new index
 - Read the file that contains the features vectors (Sequence0xx.csv)
 - Read the file that contains the images informations  (images_with_tags.csv)
